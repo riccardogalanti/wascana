@@ -5,6 +5,10 @@ Bundle-SymbolicName: com.googlecode.wascana.generator;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: com.googlecode.wascana.generator.Activator
 Bundle-Vendor: Doug Schaefer
-Require-Bundle: org.eclipse.core.runtime
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.equinox.p2.metadata.repository;bundle-version="1.0.101",
+ org.eclipse.equinox.p2.artifact.repository;bundle-version="1.0.101",
+ org.eclipse.equinox.p2.core;bundle-version="1.0.101",
+ org.eclipse.equinox.p2.repository;bundle-version="1.0.1"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Bundle-ActivationPolicy: lazy
