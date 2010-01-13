@@ -2,4 +2,7 @@
 
 Here are links to the source archives for the Wascana packages.
 
-[http://sourceforge.net/projects/mingw/files/GNU%20Binutils/binutils-2.20/binutils-2.20-1-mingw32-src.tar.gz/download binutils-2.20-1-mingw32-src.tar.gz]
+  * MinGW Binutils: [http://sourceforge.net/projects/mingw/files/GNU%20Binutils/binutils-2.20/binutils-2.20-1-mingw32-src.tar.gz/download binutils-2.20-1-mingw32-src.tar.gz]
+  * TDM GCC Core: [http://sourceforge.net/projects/tdm-gcc/files/Sources/Vanilla%20Sources/gcc-4.4.1/gcc-core-4.4.1.tar.bz2/download gcc-core-4.4.1.tar.bz2]
+  * TDM GCC G++: [http://sourceforge.net/projects/tdm-gcc/files/Sources/Vanilla%20Sources/gcc-4.4.1/gcc-g++-4.4.1.tar.bz2/download gcc-g++-4.4.1.tar.bz2]
+  * TDM GCC Patches: [http://sourceforge.net/projects/tdm-gcc/files/Sources/TDM%20Sources/4.4.1-tdm-2/gcc-4.4.1-tdm-2-srcbase.zip/download gcc-4.4.1-tdm-2-srcbase.zip]
